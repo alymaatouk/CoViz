@@ -15,7 +15,7 @@ Drawing from statistics already provided by the [California Department of Public
 
 ## Creating the tool in Streamlit
 
-By using Streamlit I was able to convert the Python code into an interactive tool that enables users to select counties of interest and get composite COVID-19 intelligence for the combined region. [You can check out the tool here](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) and [the source code for the tool here]().
+By using Streamlit I was able to convert the Python code into an interactive tool that enables users to select counties of interest and get composite COVID-19 intelligence for the combined region. [You can check out the tool here](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) and [the source code for the tool here](https://github.com/alymaatouk/CoViz/blob/main/COVID_app.py).
 
 ## Glimpse about the App
 
