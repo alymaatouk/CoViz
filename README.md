@@ -22,3 +22,6 @@ By using Streamlit I was able to convert the Python code into an interactive too
 The application starts with displaying a dashboard that shows composite data of three counties surrounding the University of California Davis (Yolo, Sacramento and Solano). Users can either choose a single county or a combination of multiple counties of their choice to get trends on A) daily new cases per 100,000 population (averaged over the last seven days), (B) daily incidence (new cases), (C) Cumulative cases and deaths and (D) Daily new tests (testing data is available only for a few counties in California).
 
 If you'd like to learn more about how to interpret these metrics, [covidlocal.org](https://covidlocal.org/) is a good resource - but in short, the initial reopening of a community is indicated when daily cases decline for 21 consecutive days and estimates for new cases per 100,000 are below 25 cases per day (Phase 2). Similarly, Phase 3 economic recovery opening is indicated when estimates for new cases per 100,000 are below 10 cases per day.
+
+![Recording #7](https://user-images.githubusercontent.com/115188345/194589199-cea80001-f83a-484e-9be4-aee40e96375e.gif)
+
