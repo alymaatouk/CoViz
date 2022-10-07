@@ -1,7 +1,7 @@
 # CoViz = Covid 19 + Visualization 
-An Interactive Decision Making tool, that represent healthcare analytics regarding the Covid 19 situation in California. A tool that tracks California's COVID-19 cases by region in Real Time!
+[An Interactive Decision Making tool](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/), that represent healthcare analytics regarding the Covid 19 situation in California. A tool that tracks California's COVID-19 cases by region in Real Time!
 
-Coviz Provides Californian Health Decision Makers with insights about the Covid 19 trends and situation in different California counties. This enables them to make decisions regarding locking down or opening the counties, and when to apply quarintine measures.
+[Coviz](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) Provides Californian Health Decision Makers with insights about the Covid 19 trends and situation in different California counties. This enables them to make decisions regarding locking down or opening the counties, and when to apply quarintine measures.
 
 ![ezgif-1-4c3e890927](https://user-images.githubusercontent.com/115188345/194586803-2977959b-ce1c-441a-8d7d-b784f63aaac4.gif)
 
@@ -15,7 +15,7 @@ Drawing from statistics already provided by the [California Department of Public
 
 ## Creating the tool in Streamlit
 
-By using Streamlit I was able to convert the Python code into an interactive tool that enables users to select counties of interest and get composite COVID-19 intelligence for the combined region. [You can check out the tool here]() and [the source code for the tool here]().
+By using Streamlit I was able to convert the Python code into an interactive tool that enables users to select counties of interest and get composite COVID-19 intelligence for the combined region. [You can check out the tool here](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) and [the source code for the tool here]().
 
 ## Glimpse about the App
 
