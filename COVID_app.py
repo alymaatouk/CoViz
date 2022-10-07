@@ -536,7 +536,7 @@ over_theme = {'txc_inactive': 'white','menu_background':'rgb(0,0,128)', 'option_
 menu_id = hc.nav_bar(
     menu_definition=menu_data,
     override_theme=over_theme,
-    hide_streamlit_markers=True,
+    hide_streamlit_markers=False,
     sticky_nav=True, #at the top or not
     sticky_mode='sticky', #jumpy or not-jumpy, but sticky or pinned
 )
