@@ -25,3 +25,4 @@ If you'd like to learn more about how to interpret these metrics, [covidlocal.or
 
 ![Recording #7](https://user-images.githubusercontent.com/115188345/194589199-cea80001-f83a-484e-9be4-aee40e96375e.gif)
 
+![health_equity](https://user-images.githubusercontent.com/115188345/194590192-82e574f8-ee51-4f62-ac10-bc400b38e530.gif)
