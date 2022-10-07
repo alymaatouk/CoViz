@@ -3,7 +3,7 @@
 
 [Coviz](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) Provides Californian Health Decision Makers with insights about the Covid 19 trends and situation in different California counties. This enables them to make decisions regarding locking down or opening the counties, and when to apply quarintine measures.
 
-![ezgif-1-4c3e890927](https://user-images.githubusercontent.com/115188345/194586803-2977959b-ce1c-441a-8d7d-b784f63aaac4.gif)
+![primarydashboard](https://user-images.githubusercontent.com/115188345/194590996-e66e10ee-0fe3-4c2c-a7b3-bee777b6eeb1.gif)
 
 ## Context
 
