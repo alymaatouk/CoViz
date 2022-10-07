@@ -3,6 +3,8 @@ An Interactive Decision Making tool, that represent healthcare analytics regardi
 
 Coviz Provides Californian Health Decision Makers with insights about the Covid 19 trends and situation in different California counties. This enables them to make decisions regarding locking down or opening the counties, and when to apply quarintine measures.
 
+![ezgif-1-4c3e890927](https://user-images.githubusercontent.com/115188345/194586803-2977959b-ce1c-441a-8d7d-b784f63aaac4.gif)
+
 ## Context
 
 The COVID-19 pandemic has highlighted the importance of constant and real-time disease surveillance to better control unprecedented local outbreaks. Early on in the pandemic, the state of California came up with its own distinct phases for opening the economy and community activities. These phases were based on county-wide thresholds of daily COVID-19 incidence, test positivity, and availability of ICU beds in the county. While county-wide data is continuously available, a composite picture of a group of counties is not as easy to understand. Such information is especially useful for bigger organizations that serve regional communities, such as universities, corporate companies, or dense urban regions that are highly connected.
