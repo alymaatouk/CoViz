@@ -1,5 +1,5 @@
 # CoViz = Covid 19 + Visualization 
-[An Interactive Decision Making tool](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/), that represent healthcare analytics regarding the Covid 19 situation in California. A tool that tracks California's COVID-19 cases by region in Real Time!
+[An Interactive Decision Making tool](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/), that represents healthcare analytics regarding the Covid 19 situation in California. A tool that tracks California's COVID-19 cases by region in Real Time!
 
 [Coviz](https://alymaatouk-coviz-covid-app-9v99om.streamlitapp.com/) Provides Californian Health Decision Makers with insights about the Covid 19 trends and situation in different California counties. This enables them to make decisions regarding locking down or opening the counties, and when to apply quarintine measures.
 
